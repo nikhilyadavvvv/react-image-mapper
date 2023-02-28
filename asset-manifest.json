@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-image-mapper/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-image-mapper/static/js/main.15f13c31.chunk.js",
+    "main.js.map": "/react-image-mapper/static/js/main.15f13c31.chunk.js.map",
+    "runtime~main.js": "/react-image-mapper/static/js/runtime~main.40afabd3.js",
+    "runtime~main.js.map": "/react-image-mapper/static/js/runtime~main.40afabd3.js.map",
+    "static/js/2.1017149e.chunk.js": "/react-image-mapper/static/js/2.1017149e.chunk.js",
+    "static/js/2.1017149e.chunk.js.map": "/react-image-mapper/static/js/2.1017149e.chunk.js.map",
+    "static/js/3.5526bd81.chunk.js": "/react-image-mapper/static/js/3.5526bd81.chunk.js",
+    "static/js/3.5526bd81.chunk.js.map": "/react-image-mapper/static/js/3.5526bd81.chunk.js.map",
+    "index.html": "/react-image-mapper/index.html",
+    "precache-manifest.a4ae501d4f09705d4bca6d98e434d652.js": "/react-image-mapper/precache-manifest.a4ae501d4f09705d4bca6d98e434d652.js",
+    "service-worker.js": "/react-image-mapper/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-image-mapper/static/css/main.5ecd60fb.chunk.css.map",
+    "static/media/museum_poster.png": "/react-image-mapper/static/media/museum_poster.7eb8d98b.png"
+  }
+}
