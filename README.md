@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Running Example
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Running example [here](https://nikhilyadavvvv.github.io/react-image-mapper/).
 
 ## Available Scripts
 
